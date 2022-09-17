@@ -102,8 +102,24 @@ html {
     color: #7cb14a !important;
 }
 
+#h-img {
+  margin-top: 0px;
+  margin-left: 20px;
+  float: right;
+  width: 0px;
+  padding: 5px;
+
+}
+
+#h-text {
+  margin-top: 150px;
+  margin-left: 250px;
+  float: left;
+  width: 50.00%;
+  padding: 5px;
+}
+
 #big-banner {
-    background-image: url(../images/big-image.png);
 	background-position: center;
     background-size: cover;
     margin-top: 50px;
