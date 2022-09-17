@@ -1,2 +1,2 @@
-# sanjivanand.in
-Sanjiv Anand
+# jewtrust.org
+Jyoti educational and welfare trust
